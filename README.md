@@ -14,5 +14,5 @@ Next, the terminal screen prompts the user to enter an argument. Enter the argum
 Follow the same instructions for cycle6.
 ```
 $ python argstrat6.py ./planner ./examples/cycle6.txt
-
+```
 P.S. Some files are borrowed from https://github.com/christopher-hampson/argstrat which solves a problem similiar in nature to the problem at hand. 
