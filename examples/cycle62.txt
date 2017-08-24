@@ -1,0 +1,37 @@
+Title: cyclic6
+
+Arguments: a, b, c, d, e, f, g, h, i, j, k, l, m
+
+Attacks: 
+    (b,a), 
+    (c,a),
+    (d,a),
+    (e,a),
+    (f,a),
+    (g,a),
+    (h,b),
+    (i,c),
+    (j,d),
+    (k,e),
+    (l,f),
+    (m,g),
+    (h,i),
+    (i,j),
+    (j,k),
+    (k,l),
+    (l,m),
+    (m,h)
+   
+
+Proponent: a, h, i, j, k, l, m
+
+Opponent: 
+    ({b} :1), 
+
+    ({b, e} :1)
+
+   
+   
+
+
+Goals: a

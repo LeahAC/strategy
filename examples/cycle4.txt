@@ -1,0 +1,47 @@
+Title: cycle4
+
+Arguments: a, b, c, d, e, f, g, h, i
+
+Attacks: 
+    (b,a), 
+    (c,a),
+    (d,a),
+    (e,a),
+    (f,b),
+    (g,c),
+    (h,d),
+    (i,e),
+    (b,c),
+    (c,d),
+    (d,e),
+    (e,b),
+    (f,g),
+    (g,h),
+    (h,i),
+    (i,f)
+
+Proponent: a, f, g, h, i
+
+Opponent: 
+    ({b} :1),
+    ({e} :1),
+    ({c} :1),
+    ({d} :1),
+    ({b, c} :1),
+    ({b, d} :1),
+    ({b, e} :1),
+    ({c, d} :1),
+    ({c, e} :1),
+    ({d, e} :1),
+    ({b, c, d} :1),
+    ({b, c, e} :1),
+    ({b, d, e} :1),
+    ({c, d, e} :1),
+    ({b, c, d, e} :1)
+    
+    
+    
+
+Goals: a
+
+
