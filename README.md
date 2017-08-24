@@ -13,4 +13,4 @@ Follow the instructions as they appear in the terminal. If the replanning is suc
 Next, the terminal screen prompts the user to enter an argument. Enter the argument which doesnot appear in the planner output. Press any numeric value if such an argument does not exist.
 Follow the same instructions for cycle6.
 
-P.S Some files are borrowed from https://github.com/christopher-hampson/argstrat which solves a problem similiar in nature to the problem at hand. 
+P.S. Some files are borrowed from https://github.com/christopher-hampson/argstrat which solves a problem similiar in nature to the problem at hand. 
